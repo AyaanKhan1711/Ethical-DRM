@@ -286,8 +286,9 @@ git push origin feature/your-feature
 
 ## 👨‍💻 Contributors
 
-* Your Name
-* Team Members
+* Khan Ayaan Habib Yunus
+* Syed Ayman Ali
+* Shaikh Umar
 
 ---
 
