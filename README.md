@@ -205,7 +205,7 @@ ethical_drm/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/EthicalDRM.git
+git clone https://github.com/AyaanKhan1711/Ethical-DRM.git
 cd EthicalDRM
 
 python -m venv .venv
@@ -219,7 +219,7 @@ pip install -r requirements.txt
 ## 🔑 Environment Setup (Optional)
 
 ```bash
-export GEMINI_API_KEY="your_api_key"
+export GEMINI_API_KEY=""
 ```
 
 ---
