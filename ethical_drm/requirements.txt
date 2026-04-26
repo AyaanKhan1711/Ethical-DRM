@@ -1,0 +1,8 @@
+opencv-python
+numpy
+Pillow
+ImageHash
+google-genai
+streamlit
+requests
+beautifulsoup4
